@@ -17,4 +17,7 @@
     "dialect": "mysql"
   }
 }
+
 ```
+
+- Once you've added your db config as listed above, go to the src folder from your terminal and execute `npm sequelize db:create`
